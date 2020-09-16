@@ -1,7 +1,14 @@
 # MineSweeper
 
-A simple MineSweeper game made in Java with basic GUI(AWT and Swing libraries).
+### Project Explanation
 
-Please let me know if you have bugs or something that needs to be fixed.
+A simple MineSweeper game.
 
-Hope you enjoy. 
+This Project was created with <b> Java with basic GUI(AWT and Swing libraries).</b>
+
+### Demo:
+![Reversi Demo Video](https://github.com/leorrose/MineSweeper/blob/master/demo.gif)
+
+Please let me know if you find bugs or something that needs to be fixed.
+
+Hope you enjoy.
